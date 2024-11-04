@@ -1,4 +1,4 @@
-# Tic Tac Toe with Minimax Algorithm (Fully Commented)
+# Tic Tac Toe with Minimax Algorithm
 
 Welcome to **Tic Tac Toe with Minimax Algorithm**! This project is a Python-based Tic Tac Toe game where the player faces off against an unbeatable AI. The AI uses the Minimax algorithm to make optimal moves, ensuring it either wins or ties every game.
 
